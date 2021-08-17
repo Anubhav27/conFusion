@@ -39,3 +39,23 @@ body{
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.booking-form{
+    background-color: orange;
+    color: white;
+    font-size: 30px;
+    
+}
+
+.btn-custom,.btn-custom:hover,.btn-custom:focus,.btn-custom:active,.btn-custom:visited{
+    background: orange;
+    color:black;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
